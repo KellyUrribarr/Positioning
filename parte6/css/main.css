@@ -1,1 +1,46 @@
-/* Pon tu código css aqui */
+body {
+	margin:0;
+	padding:0;
+	 }
+
+div {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	}
+
+.rojo {
+	background-color: #ee3e64;
+	position:absolute;
+	top:0px;
+	bottom: 200px;
+	left:0px ;
+	right: 100px ;
+	  }
+
+.azul {
+	background-color: #44accf;
+	position:absolute;
+	top: 200px;
+	bottom: 200px;
+	left: 200px;
+	right: 0px;
+	  }
+
+.verde {
+	background-color: #b7d84b;
+	position:absolute;
+	top:200px;
+	bottom:0px;
+	left: 0px;
+	right: 100px;
+
+	   }
+
+.amarillo{ background-color: yellow; 
+	position:absolute;
+	top: 400px;
+	bottom: 200px;
+	left: 0px;
+	right: 100px;
+	
