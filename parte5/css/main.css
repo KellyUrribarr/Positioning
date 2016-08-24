@@ -36,12 +36,11 @@ div {
 	right: 100px;
 }
 
-.amarillo { 
-	background-color: yellow; 
+.amarillo {
+ 	background-color: yellow; 
 	position:absolute;
 	top: 400px;
 	bottom: 200px;
 	left: 700px;
 	right: 0px;
 }
-
